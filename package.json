@@ -1,0 +1,18 @@
+{
+  "name": "js-kata",
+  "version": "1.0.0",
+  "description": "my kata",
+  "main": "index.js",
+  "author": "Alexander Ismailov",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/node": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "lodash": "^4.17.15"
+  }
+}
